@@ -1,6 +1,6 @@
-## Lesson-10
+## Lesson-21
 
-Adding email/password sign up authentication for firebase, as a result we need to store our user objects in the database.
+We also want to be able to update the quantity using buttons to the left and right of the number, so we will add the appropriate code to do so.
 
 # How to fork and clone
 
